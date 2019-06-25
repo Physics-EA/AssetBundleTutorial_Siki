@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2285847643
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: share.ab
+      Dependencies: {}
+    Info_1:
+      Name: capsualwall.ab
+      Dependencies:
+        Dependency_0: share.ab
+    Info_2:
+      Name: cubewall.ab
+      Dependencies:
+        Dependency_0: share.ab
